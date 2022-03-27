@@ -1,0 +1,1 @@
+d3bf1af0b137aefef75296614e30e75b3ec50b7d0d8b601150edbed7fab866f8  workshop_template.wasm
